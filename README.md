@@ -32,7 +32,7 @@ The **Tennis Rankings Explorer** project is a comprehensive data engineering and
 * **Doubles Competitor Rankings:**
   * `Competitor_Rankings` Table
   * `Competitors` Table
-  * 
+    
 ## Data Analysis & Insights
 
 * **Competitions**: Discuss insights like total competitions (6104), distribution by category, top-level competitions, parent-sub competition relationships.
