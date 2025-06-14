@@ -1,0 +1,42 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+.venv/
+venv/
+*/venv/ # Ignore venv folders anywhere in subdirectories
+
+# Jupyter / IPython
+.ipynb_checkpoints
+profile_default/
+ipython_config.py
+
+# IDEs and Editors
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# OS generated files
+.DS_Store
+.Trashes
+Thumbs.db
+ehthumbs.db
+*.stackdump
+*.log
+*.swp
+
+# Database
+*.sqlite3
+*.db
+*.db-journal
+data/ # If you store DB files directly in a 'data' folder and don't want to track it
+
+# Compiled files
+*.dll
+*.exe
+*.so
+*.out
