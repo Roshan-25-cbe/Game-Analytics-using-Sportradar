@@ -144,7 +144,7 @@ ORDER BY
 
 
 ---Query 7: List all competitions with no parent (top-level competitions) 
-SQL
+
 SELECT
     competition_name,
     type,
